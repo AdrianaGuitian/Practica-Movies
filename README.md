@@ -4,5 +4,5 @@
 
 *Agustina Acosta
 *Luis Dick
-*Edgardo Gabriel De la Cruz
+*Edgardo Gabriel De la Cruz - edad: 24 - ciudad de residencia: Buenos aires
 *Adriana Guitian
